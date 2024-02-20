@@ -44,11 +44,17 @@ Horiseon is a digital marketing agency which provides search engine optimization
 **What were Refactored**
 
 1.Comments were added on both html and css code so people can read/understand code easily.
+
 2.Added title of the page.
+
 3.Added Nav elements.
+
 4.consolidated class attributes for both main and aside elements.
+
 5.updated h3 for footer.
+
 6. updated css with same class for multiple main and aside section to consolidate as they are using same styling.
+   
 7. Updated css to not display footer.
 
 **Contributers**
